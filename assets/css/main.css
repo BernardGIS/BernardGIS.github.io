@@ -2248,7 +2248,12 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("C:\Users\USER\Downloads\BernardGIS.github.io/intro.png") !important;
+				background-image: url("../images/intro.png");
+				height:100vh;
+				min-height:500px;
+				background-size:cover;
+				background-attachment:fixed;
+
 			}
 
 			#main > section.two {image
