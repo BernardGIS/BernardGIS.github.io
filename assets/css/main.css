@@ -2249,6 +2249,7 @@ input, select, textarea {
 			#main > section.one {
 				background-color: #81918E;
 				background-image: url("../intro.png");
+				height:100vh;
 			}
 
 			#main > section.two {image
