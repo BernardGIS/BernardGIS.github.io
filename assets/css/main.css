@@ -2247,12 +2247,8 @@ input, select, textarea {
 			}
 
 			#main > section.one {
+				background-color: #81918E;
 				background-image: url("../images/intro.png");
-				height:100vh;
-				min-height:300px;
-				background-size:cover;
-				background-attachment:fixed;
-
 			}
 
 			#main > section.two {image
